@@ -143,7 +143,6 @@ vite.config.ts.timestamp-*
 .vite/
 
 # Pipeline output (generated files)
-output/
 !output/.gitkeep
 
 # Macos
